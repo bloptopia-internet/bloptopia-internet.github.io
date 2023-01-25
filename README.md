@@ -1,1 +1,1 @@
-# bloptopia-internet.github.io
+# Website Internet of Bloptopia
